@@ -1,0 +1,6 @@
+[tool.black]
+line-length = 88
+include = '\.pyi?$'
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

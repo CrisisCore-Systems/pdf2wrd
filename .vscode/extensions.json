@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "njpwerner.autodocstring",
+        "streetsidesoftware.code-spell-checker",
+        "kevinrose.vsc-python-indent",
+        "ryanluker.vscode-coverage-gutters"
+    ]
+}
